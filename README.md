@@ -1,3 +1,3 @@
 # HUAWEI-2018-CodeCraft
-get the finalist of this craft.
-thanks to Mao and Liuzard.
+Get the finalist of this craft.
+Thanks to Mao and Liuzard.
