@@ -1,0 +1,3 @@
+/home/charles/code/HUAWEI/sdk/build/CMakeFiles/edit_cache.dir
+/home/charles/code/HUAWEI/sdk/build/CMakeFiles/rebuild_cache.dir
+/home/charles/code/HUAWEI/sdk/build/CMakeFiles/ecs.dir
